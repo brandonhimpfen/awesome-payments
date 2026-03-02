@@ -41,6 +41,7 @@
 - [Checkout.com](https://www.checkout.com/) – Cloud-native global payment processing platform.
 - [Braintree](https://www.braintreepayments.com/) – Payment gateway for web and mobile applications.
 - [Worldpay](https://www.worldpay.com/) – Global payment processing and acquiring services.
+- [Zenobank](https://zenobank.io/) – Crypto payment gateway for accepting payments across Bitcoin, Lightning Network, Ethereum, Solana, and other blockchains.
 
 ## Cards & Card Networks
 
