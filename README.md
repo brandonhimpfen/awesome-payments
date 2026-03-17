@@ -105,6 +105,7 @@
 - [Adyen API](https://docs.adyen.com/) – APIs for global payment processing.
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
+- [Arch Tools](https://archtools.dev/) – 61 AI tools accessible via REST API and MCP protocol with native x402 USDC micropayments on Base, Polygon, Avalanche, and Solana.
 
 ## Compliance & Security
 
