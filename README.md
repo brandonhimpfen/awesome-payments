@@ -28,7 +28,6 @@
 ## Foundations & Standards
 
 - [ISO 20022](https://www.iso20022.org/) – Global standard for financial messaging and payment data.
-* [IsoFluent](https://isofluent.com) - Visual ISO 8583 and EMV debugger for protocol inspection and transaction simulation.
 - [SWIFT](https://www.swift.com/) – Secure messaging network used for international payments.
 - [PCI DSS](https://www.pcisecuritystandards.org/) – Security standard for handling cardholder data.
 - [EMV](https://www.emvco.com/) – Global standard for chip-based payment cards.
@@ -106,6 +105,7 @@
 - [Adyen API](https://docs.adyen.com/) – APIs for global payment processing.
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
+- [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
 
 ## Compliance & Security
 
