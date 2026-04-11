@@ -73,6 +73,7 @@
 - [OFX](https://www.ofx.com/) – International money transfer and FX services.
 - [Currencycloud](https://www.currencycloud.com/) – APIs for cross-border payments and FX.
 - [Airwallex](https://www.airwallex.com/) – Global payments and FX platform for businesses.
+- [MRC GlobalPay](https://mrcglobalpay.com) – Non-custodial cross-border settlement rails providing automated FX asset swaps for B2B and programmatic use via a machine-readable [manifest](https://mrcglobalpay.com/trading-bot-manifest.json).
 
 ## Billing, Subscriptions & Invoicing
 
