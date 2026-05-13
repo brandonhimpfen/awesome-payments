@@ -106,6 +106,7 @@
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
 - [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
+- [Dodo Payments CLI](https://github.com/dodopayments/dodopayments-cli) – Open-source command-line tool and interactive TUI to manage payments, subscriptions, customers and webhooks via the Dodo Payments API, with offline webhook testing.
 
 ## Compliance & Security
 
