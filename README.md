@@ -89,6 +89,7 @@
 - [Riskified](https://www.riskified.com/) – Chargeback protection and fraud prevention.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Forter](https://www.forter.com/) – Fraud prevention and identity protection for e-commerce.
+- [Stripe Radar Rule Library](https://www.georgesrayess.com/fraud/stripe-radar-rule-library) – Free generator producing copy-paste Stripe Radar rules for common fraud patterns like card testing and velocity.
 
 ## Embedded & Marketplace Payments
 
@@ -114,6 +115,7 @@
 - [Strong Customer Authentication (SCA)](https://www.eba.europa.eu/regulation-and-policy/payment-services-and-electronic-money/strong-customer-authentication-and-common-and-secure-open-standards-of-communication) – Authentication requirements under PSD2.
 - [Tokenization](https://www.visa.com/run-your-business/small-business-tools/payment-technology/tokenization.html) – Replacing sensitive payment data with tokens.
 - [3D Secure](https://www.emvco.com/emv-technologies/3d-secure/) – Additional authentication layer for card-not-present transactions.
+- [Payment Risk Calculator](https://www.georgesrayess.com/fraud/payment-risk-calculator) – Free calculator for Visa VAMP and Mastercard ECM monitoring-program thresholds.
 
 ## Learning Resources
 
@@ -126,6 +128,7 @@
 - [How Card Payments Work](https://www.investopedia.com/terms/c/card-not-present-transaction.asp) – End-to-end explanation of card payment processing.
 - [Global Payments Landscape](https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-map) – Overview of global payment systems.
 - [Embedded Payments Guide](https://stripe.com/guides/embedded-payments) – Building payments into platforms and products.
+- [Payments & Chargeback Fraud Glossary](https://www.georgesrayess.com/fraud/glossary) – Free reference defining chargeback, VAMP, ECM, representment, and related payments-fraud terms.
 
 ### Courses
 - *Payments Fundamentals* – Core concepts behind modern payment systems.
