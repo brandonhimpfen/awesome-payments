@@ -106,6 +106,7 @@
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
 - [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – Trust scoring for Solana AI agent wallets using x402 micropayment verification; zero-install MCP for agent payment readiness checks.
 
 ## Compliance & Security
 
