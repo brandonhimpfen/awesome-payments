@@ -41,6 +41,7 @@
 - [Checkout.com](https://www.checkout.com/) – Cloud-native global payment processing platform.
 - [Braintree](https://www.braintreepayments.com/) – Payment gateway for web and mobile applications.
 - [Worldpay](https://www.worldpay.com/) – Global payment processing and acquiring services.
+- [Plirin](https://www.plirin.com/) – Non-custodial stablecoin payment gateway and invoicing for USDC & USDT with flat fees, instant settlement, and no chargebacks.
 
 ## Cards & Card Networks
 
