@@ -89,6 +89,7 @@
 - [Riskified](https://www.riskified.com/) – Chargeback protection and fraud prevention.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Forter](https://www.forter.com/) – Fraud prevention and identity protection for e-commerce.
+- [Chargeback Reason Codes](https://chargebackkit.app/reason-codes/) – Free open reference of 64 active Visa, Mastercard, American Express, and Discover chargeback reason codes, with required evidence and response deadlines for each. Also on [GitHub](https://github.com/small-business-software-maker/chargeback-reason-codes) under Creative Commons.
 
 ## Embedded & Marketplace Payments
 
