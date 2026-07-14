@@ -81,6 +81,7 @@
 - [Recurly](https://recurly.com/) – Subscription billing platform for SaaS businesses.
 - [Zuora](https://www.zuora.com/) – Enterprise subscription and billing management.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and payments for small businesses.
+- [PricePilot](https://pricepilot.cloud) - Bulk-change the price of existing Stripe subscriptions, no code (preview, safe batches, one-click reverse).
 
 ## Fraud, Risk & Disputes
 
