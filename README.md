@@ -41,6 +41,7 @@
 - [Checkout.com](https://www.checkout.com/) – Cloud-native global payment processing platform.
 - [Braintree](https://www.braintreepayments.com/) – Payment gateway for web and mobile applications.
 - [Worldpay](https://www.worldpay.com/) – Global payment processing and acquiring services.
+- [paas.build](https://paas.build/) – Instant merchant account for AI-era builders by UniPaaS, an FCA-authorised UK payment institution, with same-day progressive KYB onboarding and an agent-native MCP server.
 
 ## Cards & Card Networks
 
