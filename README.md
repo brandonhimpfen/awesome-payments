@@ -89,6 +89,7 @@
 - [Riskified](https://www.riskified.com/) – Chargeback protection and fraud prevention.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Forter](https://www.forter.com/) – Fraud prevention and identity protection for e-commerce.
+- [MerchantReady](https://merchantready.org/) – Merchant risk readiness review covering policy clarity, KYC documentation, subscription transparency, and chargeback evidence before payment processor reviews.
 
 ## Embedded & Marketplace Payments
 
