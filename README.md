@@ -106,6 +106,7 @@
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
 - [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
+- [iso8583-data](https://github.com/lizhi5753186/iso8583-data) – Bilingual ISO 8583 and EMV reference tables as JSON: response codes, EMV tags and AIDs, MTI, TVR bits, ISO 4217 with minor-unit exponents, and MCC. Data released under CC0.
 
 ## Compliance & Security
 
