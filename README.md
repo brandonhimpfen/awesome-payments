@@ -106,6 +106,7 @@
 - [Braintree SDK](https://developer.paypal.com/braintree/docs) – SDKs for integrating card and PayPal payments.
 - [Mollie API](https://docs.mollie.com/) – Simple APIs for European payment methods.
 - [IsoFluent](https://isofluent.com) – Visual debugger for ISO 8583 and EMV protocols, supporting message inspection and transaction simulation.
+- [USDCtoFiat](https://usdctofiat.xyz/) – Non-custodial USDC-to-fiat cash-out on Base, with a public TypeScript SDK (`@usdctofiat/offramp`).
 
 ## Compliance & Security
 
