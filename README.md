@@ -89,6 +89,7 @@
 - [Riskified](https://www.riskified.com/) – Chargeback protection and fraud prevention.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Forter](https://www.forter.com/) – Fraud prevention and identity protection for e-commerce.
+- [RefundRadar](https://guerindylan555-boop.github.io/refundradar/) – Generates Stripe dispute counter_evidence packets (rebuttal letter + evidence checklist) for indie SaaS merchants.
 
 ## Embedded & Marketplace Payments
 
