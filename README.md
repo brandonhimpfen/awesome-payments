@@ -81,6 +81,7 @@
 - [Recurly](https://recurly.com/) – Subscription billing platform for SaaS businesses.
 - [Zuora](https://www.zuora.com/) – Enterprise subscription and billing management.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and payments for small businesses.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) – Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-payments-v1) for white-label PDFs, batch CLI, and templates. Open source.
 
 ## Fraud, Risk & Disputes
 
