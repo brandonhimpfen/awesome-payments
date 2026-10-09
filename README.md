@@ -42,6 +42,7 @@
 - [Checkout.com](https://www.checkout.com/) – Cloud-native global payment processing platform.
 - [Braintree](https://www.braintreepayments.com/) – Payment gateway for web and mobile applications.
 - [Worldpay](https://www.worldpay.com/) – Global payment processing and acquiring services.
+- [SnapEX Pay](https://pay.snapex.pro/) – Crypto payment gateway with invoices and webhooks for merchants (USDT TRC20 and other coins).
 
 ## Cards & Card Networks
 
