@@ -82,6 +82,7 @@
 - [Recurly](https://recurly.com/) – Subscription billing platform for SaaS businesses.
 - [Zuora](https://www.zuora.com/) – Enterprise subscription and billing management.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and payments for small businesses.
+- [AgentaOS](https://agentaos.ai) – Merchant of record for AI agents: products, checkout and subscriptions set up from Claude, ChatGPT or Cursor, with VAT, sales tax and invoices handled.
 
 ## Fraud, Risk & Disputes
 
