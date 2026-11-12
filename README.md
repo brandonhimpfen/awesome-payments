@@ -90,6 +90,7 @@
 - [Riskified](https://www.riskified.com/) – Chargeback protection and fraud prevention.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Forter](https://www.forter.com/) – Fraud prevention and identity protection for e-commerce.
+- [RelayGuard](https://github.com/HR-31/relayguard) – Open-source issuer-side detector for NFC contactless relay ("Ghost Tap") fraud.
 
 ## Embedded & Marketplace Payments
 
